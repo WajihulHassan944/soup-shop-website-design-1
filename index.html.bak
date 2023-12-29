@@ -6,7 +6,7 @@
 	 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>BROTHSMEN ®</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -39,7 +39,7 @@ position: sticky !important;
 
 <body class="body">
   <div data-animation="default" class="navbar w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="a01edbbb-7c76-862a-59bb-c0cc25b800f2" role="banner" data-duration="400" data-doc-height="1">
-        <div class="c-nav__container" style="background:#FFC72C;"><a href="index.html" aria-current="page" class="brand w-nav-brand w--current"><img src="logo2-removebg-preview.png" class="imgbanner"></a>
+        <div class="c-nav__container" style="background:#FFC72C;"><a href="index.html" aria-current="page" class="brand w-nav-brand w--current"><center><img src="logo2-removebg-preview.png" class="imgbanner"></center></a>
            
         </div>
     </div>
@@ -61,12 +61,13 @@ position: sticky !important;
 					margin-left:505px;
 				}
 				.heading-1-big{
-					margin-left:-120px;
+					margin-left:-100px;
+					font-size:70px;
 				
 				}
 				.div-block-7{
-					width:800px;
-					margin-left:-125px;
+					width:830px;
+					margin-left:-155px;
 					margin-top:-35px;
 				}
 .imagewrapper{
@@ -130,12 +131,28 @@ position: sticky !important;
 	
 	
 	
-	<div class="c-m4" >
-        <div class="c-m4__sticky">
+	
+	<div class="c-m4 c-m4-soups"  style="background:#fdfaf2;">
+			
+				
+	<div class="c-m3" style="width:100%;">
+        <div class="c-m3__container">
+            <h2 class="c-m3__heading">Our Soups</h2>
+            <div class="c-linebreak-red"></div>
+            
+			
+			
+        </div>
+    </div>
+	    
+    <div class="c-m4__sticky">
             <div data-w-id="8f049488-7c81-fe74-00b8-eecc80ba379d" class="c-m4__sticky-wrap">
-                <div class="c-m4__container sticky">
-                    <div class="c-m4__copy-wrap">
-                        <div style="display:block" class="c-m4__copy c-m4__copy-1">
+                <div class="c-m4__container sticky c-m4__container-yo-top">
+	
+				
+				
+                    <div class="c-m4__copy-wrap" style="background:#fdfaf2;">
+                        <div style="display:block; background:#fdfaf2;" class="c-m4__copy c-m4__copy-1">
                             <h1 class="c-m4__title">Creamy Mushroom Soup</h1>
                             <div class="c-linebreak-red"></div>
                             <p class="c-m4__copy">Farm fresh mushrooms, caramelised and slow cooked with onion, garlic and thyme, blended with a dollop of cream to give you a deliciously velvety soup. Enjoy the flavours of earthy, wholesome ingredients and real mushrooms in every bite. Pair it with garlic bread and enjoy a yummy meal! 100% vegetarian.</p>
@@ -144,7 +161,7 @@ position: sticky !important;
                         <div style="display:none" class="c-m4__copy c-m4__copy-2">
                             <h1 class="c-m4__title">Classic Tomato & Basil Soup</h1>
                             <div class="c-linebreak-red"></div>
-                            <p class="c-m4__copy">This classic favourite is made from plump tomatoes, fresh basil, sauteed garlic and cream, blended together in the goodness of olive oil. Tangy and flavourful, this hearty comfort soup comes with an Italian twist. Add toasted croutons and you’ve got yourself a delicious meal! 100% vegetarian.</p>
+                            <p class="c-m4__copy">This classic favourite is made from plump tomatoes, fresh basil, sauteed garlic and cream, perfectly blended together . Tangy and flavourful, this hearty comfort soup comes with an Italian twist. Add toasted croutons and you’ve got yourself a delicious meal! 100% vegetarian.</p>
                          
                         </div>
                         <div style="display:none" class="c-m4__copy c-m4__copy-3">
@@ -194,12 +211,95 @@ position: sticky !important;
 	.c-m4__imagesss{
 		width:500px; margin-right:100px;
 	}
-	</style>
+		</style>
 	
 	
-	<div class="c-m3">
+	
+
+<div  class="c-m2 c-m4-soups-ro-display" style="background:#fdfaf2;">
+
+
+	<div class="c-m3" style=" margin-bottom:-60px;">
         <div class="c-m3__container">
-            <h2 class="c-m3__heading">Why Brothsmen Soups are awesome?</h2></h2>
+            <h2 class="c-m3__heading">Our Soups</h2>
+            <div class="c-linebreak-red"></div>
+            
+			
+			
+        </div>
+    </div>
+	    
+
+
+    <div class="c-m2__container" style="width: 90%; margin-left:20px; margin-top:60px;">
+		
+		
+		
+		
+	
+		
+		
+		
+         	
+  <div class="c-m2__intro" style="width: 90%;">
+    <h2 class="c-m2__title c-m2__titlesss" style="width: 90%;">Creamy Mushroom Soup</h2>
+    <div class="c-linebreak-red"></div>
+    <p class="c-m2__copy" style="width: 90%;">Farm fresh mushrooms, caramelised and slow cooked with onion, garlic and thyme, blended with a dollop of cream to give you a deliciously velvety soup. Enjoy the flavours of earthy, wholesome ingredients and real mushrooms in every bite. Pair it with garlic bread and enjoy a yummy meal! 100% vegetarian.
+	</p>
+	<img src="assets/img2.png" loading="lazy"  srcset="assets/img2.png" style="width:200px; margin-bottom:30px;" />
+  </div>
+</div>
+
+    </div>
+	
+	
+	
+<div  class="c-m2 c-m4-soups-ro-display" style="background:#fdfaf2;">
+        <div class="c-m2__container" style="width: 90%; margin-left:20px;">
+  <div class="c-m2__intro" style="width: 90%;">
+    <h2 class="c-m2__title c-m2__titlesss" style="width: 90%;">Classic Tomato & Basil Soup</h2>
+    <div class="c-linebreak-red"></div>
+    <p class="c-m2__copy" style="width: 90%;">This classic favourite is made from plump tomatoes, fresh basil, sauteed garlic and cream, perfectly blended together . Tangy and flavourful, this hearty comfort soup comes with an Italian twist. Add toasted croutons and you’ve got yourself a delicious meal! 100% vegetarian.
+	</p>
+	
+	<img src="assets/img1.png" loading="lazy"  srcset="assets/img1.png" style="width:200px; margin-bottom:30px;" />
+  </div>
+</div>
+
+    </div>
+	
+	
+	
+	
+<div  class="c-m2 c-m4-soups-ro-display" style="background:#fdfaf2;">
+        <div class="c-m2__container" style="width: 90%; margin-left:20px;">
+  <div class="c-m2__intro" style="width: 90%;">
+    <h2 class="c-m2__title c-m2__titlesss" style="width: 90%;">Tom Kha Soup</h2>
+    <div class="c-linebreak-red"></div>
+    <p class="c-m2__copy" style="width: 90%;">Made with fresh Thai paste, carrots, baby corn and mushroom, aromatic lemon grass, Kaffir lime, galangal and Bird’s eye chilli. Topped with creamy coconut milk, this wholesome soup brings the very best of Thai flavours in every spoonful. Add in cooked noodles and you’ve got yourself a delicious meal! 100% vegetarian.
+	</p>
+	
+	<img src="assets/img3.png" loading="lazy"  srcset="assets/img3.png" style="width:200px; margin-bottom:30px;" />
+  </div>
+</div>
+
+    </div>
+	
+	
+	
+	
+	<style>
+	.c-m4-soups-ro-display{
+		display:none;
+	}</style>
+	
+	
+	
+	
+	
+	<div class="c-m3" style="background:#fff;">
+        <div class="c-m3__container">
+            <h2 class="c-m3__heading">Why Brothsmen Soups are awesome?</h2>
             <div class="c-linebreak-red"></div>
             <div class="c-m3__comparison">
                 <div class="c-m3__ribrack">
@@ -207,9 +307,10 @@ position: sticky !important;
                         <ul role="list" class="w-list-unstyled" >
                             <li class="list-item-left" >Ready to eat LIQUID soups - super convenient </li>
                             <li class="list-item-left ">Wholesome fresh ingredients only </li>
+                            <li class="list-item-left">100% Real vegetables </li>
                             <li class="list-item-left">Zero added colours or preservatives </li>
-                            <li class="list-item-left">Zero Trans fat </li>
-                            <li class="list-item-left">No refrigeration required - retort packaging keeps soups fresh for a long time</li>
+                            <li class="list-item-left">Zero Trans fat</li>
+							<li class="list-item-left">No refrigeration required - revolutionary retort packaging keeps soups fresh for a long time</li>
                         </ul>
                     </div>
                 </div>
@@ -352,10 +453,6 @@ position: sticky !important;
             <div class="c-m8__social c-m8__social-divs" >
                 <h5 class="c-m8__title c-m8__title-footer-two" >Follow Us: </h5>
                 <div class="social-footer-wrapper"><a href="" target="_blank" class="instageam-white w-inline-block"><i style="color:#000000; font-size:30px;margin-right:15px;" class="fa fa-instagram" aria-hidden="true"></i><div class="c-soclai-insta-white-label" style="color:#000000;">Instagram </div> </a> <a style="color:black">@brothsmen</a>
-                  <!--  <a
-                        href="https://www.facebook.com/ribrackbbqsauce/" target="_blank" class="facebook-white w-inline-block"><img src="https://assets.website-files.com/5faabe4b6f6b4331a5f27952/5fb5b3473c4eb5902c954996_social-facebook.svg" loading="lazy" alt="" class="image-3" />
-                        <div class="c-soclai-insta-white-label">Facebook</div>  
-                        </a>-->
                 </div>
                 <div class="c-m8__legals-mobile" ><a href="/contact" class="tb-footer-legal w-button" style="color:#000000;">Contact Us</a><a href="/terms" style="color:#000000;" class="tb-footer-legal w-button">Terms and Conditions</a><a href="/privacy-policy" style="color:#000000;" class="tb-footer-legal w-button">Privacy Policy</a></div>
                 <div class="tb-copyright">© 2023 Moonshot Ventures. All Rights Reserved.</div>
@@ -364,6 +461,9 @@ position: sticky !important;
     </div>
 	
 	<style>
+	.social-footer-wrapper{
+		margin-top:-2px;
+	}
 	.tb-copyright{
 		color:#000000;
 		margin-top:-20px;
@@ -392,12 +492,262 @@ position: sticky !important;
 	
 	
 	
-	
-	
-	
 	<style>
 	
+	
+	.c-m4__container-yo-top{
+		margin-top:-70px;
+	}
 
+
+
+
+     @media (max-width: 1440px) {
+					
+		.c-m4__container-yo-top{
+		margin-top:-120px;
+	}	
+					.retailer-logo11{
+					margin-left:395px;
+				}
+				.retailer-logo22{
+					margin-left:395px;
+					border-right:none;
+				}
+				
+				
+				
+					.c-m4__title{
+						font-size:25px;
+					}
+					.w-list-unstyled{
+		margin-left:5px;
+	}
+	
+					body{
+						width:100%;
+						overflow-x:hidden;
+					}
+                   .imgbanner{
+					width:250px;
+					margin-left:495px;
+				}
+				.c-nav-shim{
+					width:0%;
+					height:5px;
+				}
+				
+
+				.div-block-7{
+					width:680px;
+					margin-left:-145px;
+					margin-top:-35px;
+				}
+				
+				
+				
+				
+				
+				.heading-1-big{
+					margin-left:-210px;
+					font-size:50px;
+					text-align:center;
+				
+				}
+				
+                    }
+			
+
+
+
+
+     @media (max-width: 1366px) {
+					
+					.retailer-logo11{
+					margin-left:365px;
+				}
+				.retailer-logo22{
+					margin-left:365px;
+					border-right:none;
+				}
+				
+				
+	               .imgbanner{
+					width:250px;
+					margin-left:450px;
+				}
+				
+	}
+			
+
+
+
+
+	
+     @media (max-width: 1280px) {
+				.c-m4__container-yo-top{
+		margin-top:-100px;
+	}	
+	
+					.retailer-logo11{
+					margin-left:340px;
+				}
+				.retailer-logo22{
+					margin-left:340px;
+					border-right:none;
+				}
+				
+				
+				
+					.c-m4__title{
+						font-size:25px;
+					}
+					.w-list-unstyled{
+		margin-left:5px;
+	}
+	
+					body{
+						width:100%;
+						overflow-x:hidden;
+					}
+                   .imgbanner{
+					width:250px;
+					margin-left:420px;
+				}
+				.c-nav-shim{
+					width:0%;
+					height:5px;
+				}
+				
+				
+				
+				
+				
+				
+				.heading-1-big{
+					margin-left:-210px;
+					font-size:50px;
+					text-align:center;
+				
+				}
+				
+				
+			
+
+				.div-block-7{
+					width:700px;
+					margin-left:-155px;
+					margin-top:-35px;
+				}
+.imagewrapper{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:120px;
+	
+	
+}
+.imagewrapper .imagewrap{
+	width:260px;
+	}
+.imagewrapper .imagewrap img{
+	max-width:100%;
+	box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+.imagewrapper .imagewrap:nth-child(2) {
+  width:300px; 
+  margin-top:-13px;
+}
+
+				
+                    }
+						
+					
+
+	
+     @media (max-width: 1280px) {
+				.c-m4__container-yo-top{
+		margin-top:-100px;
+	}	
+	
+					.retailer-logo11{
+					margin-left:340px;
+				}
+				.retailer-logo22{
+					margin-left:340px;
+					border-right:none;
+				}
+				
+				
+				
+					.c-m4__title{
+						font-size:25px;
+					}
+					.w-list-unstyled{
+		margin-left:5px;
+	}
+	
+					body{
+						width:100%;
+						overflow-x:hidden;
+					}
+                   .imgbanner{
+					width:250px;
+					margin-left:420px;
+				}
+				.c-nav-shim{
+					width:0%;
+					height:5px;
+				}
+				
+				
+				
+				
+				
+				
+				.heading-1-big{
+					margin-left:-210px;
+					font-size:50px;
+					text-align:center;
+				
+				}
+				
+				
+			
+
+				.div-block-7{
+					width:700px;
+					margin-left:-155px;
+					margin-top:-35px;
+				}
+.imagewrapper{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:120px;
+	
+	
+}
+.imagewrapper .imagewrap{
+	width:260px;
+	}
+.imagewrapper .imagewrap img{
+	max-width:100%;
+	box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+.imagewrapper .imagewrap:nth-child(2) {
+  width:300px; 
+  margin-top:-13px;
+}
+
+				
+                    }
+						
+					
+			
+
+	
+                  
      @media (max-width: 1024px) {
 					.c-m2__titlesss{
 						font-size:30px;
@@ -603,7 +953,11 @@ position: sticky !important;
 			
 
 			@media (max-width: 768px) {
-					.c-m2__titlesss{
+			
+	.c-m4__container-yo-top{
+		margin-top:-50px;
+	}					
+				.c-m2__titlesss{
 						font-size:30px;
 					}
 					.c-m4__imagesss{
@@ -716,7 +1070,7 @@ position: sticky !important;
 		margin-right:0;
 	}
 					.footers{
-		height:60vh; 
+		height:80vh; 
 	}
 		
 		.c-m8__title-footer{
@@ -774,13 +1128,14 @@ position: sticky !important;
 				.div-block-7{
 					width:300px;
 					margin-left:25px;
-					margin-top:-35px;
+					margin-top:-42px;
 				}
 .imagewrapper{
 	display:flex;
 	justify-content:center;
 	align-items:center;
 	margin-top:120px;
+	
 	
 	
 }
@@ -796,6 +1151,11 @@ position: sticky !important;
   margin-top:-13px;
 }
 
+.tb-copyright{
+		margin-top:-5px;
+		
+	}
+
 
 				
                     }
@@ -810,13 +1170,36 @@ position: sticky !important;
 
 
                     @media (max-width: 390px) {
+					
+					.down-button-wrapper{
+				display:block;
+				width: 47px;
+				height: 47px;
+				position: absolute;
+				bottom: 20px;
+			left: 44%;
+				right: 50%;
+			}
+			
+			.c-m2__titlesss{
+				padding-top:50px;
+			}
+					.c-m4-soups{
+						display:none;
+					}
+					.c-m4-soups-ro-display{
+						display:block;
+					}
+					
+					
+					
 					.c-m4__imagesss{
 		width:400px;
 
 		margin-right:0;
 	}
 					.footers{
-		height:70vh; 
+		height:72vh; 
 	}
 		
 		.c-m8__title-footer{
@@ -869,11 +1252,14 @@ position: sticky !important;
 					margin-left:10px;
 					font-size:30px;
 					text-align:center;
+					line-height:1.5;
+					padding-top:10px;
+					padding-bottom:155px;
 				
 				}
 				.div-block-7{
-					width:300px;
-					margin-left:-25px;
+					width:339px;
+					margin-left:-24px;
 					margin-top:-35px;
 				}
 .imagewrapper{
@@ -896,10 +1282,24 @@ position: sticky !important;
   margin-top:-13px;
 }
 
-
+.tb-copyright{
+		margin-top:-15px;
+		margin-left:-10px;
+	}
+	
 				
                     }
+					
+					
+					
+					
+					
+				
+
+
 </style>
+	
+	
 	
 	
 	
