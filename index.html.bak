@@ -24,8 +24,10 @@
             n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
         }(window, document);
     </script>
-    <link href="https://res.cloudinary.com/daflot6fo/image/upload/v1743736147/Screenshot_2025-04-02_at_22.33.00_cifxqm.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="https://res.cloudinary.com/daflot6fo/image/upload/v1743736147/Screenshot_2025-04-02_at_22.33.00_cifxqm.png" rel="apple-touch-icon" />
+    <link href="https://assets.website-files.com/5faabe4b6f6b4331a5f27952/600838bc84cb82fb7bb16f3d_ribrack_favcon.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://assets.website-files.com/5faabe4b6f6b4331a5f27952/600838c315a91088ab5df0ca_ribrack_webclip.png" rel="apple-touch-icon" />
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-82048594-1"></script>
+    <script src="https://www.google.com/recaptcha/api.js" type="text/javascript"></script>
     <!--<style>
 .sticky {
 position: -webkit-sticky !important;
